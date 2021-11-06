@@ -1,0 +1,16 @@
+/pracDj
+__pycache__/
+vendor/
+
+*.sqlite3
+*.log
+*.min.*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
